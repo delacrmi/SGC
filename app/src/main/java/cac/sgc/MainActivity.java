@@ -464,7 +464,5 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
         rangos.setValue(Rangos.TICKET_ACTUAL,"0");
         rangos.setValue(Rangos.STATUS,"ACTIVO");
         getEntityManager().save(rangos);
-
     }
-
 }
