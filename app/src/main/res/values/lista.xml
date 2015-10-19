@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clave_corte">
+        <item>Verde</item>
+        <item>Accidental</item>
+        <item>Quemado</item>
+    </string-array>
+    <string-array name="cabezales">
+        <item>B01001</item>
+        <item>B01002</item>
+        <item>B01003</item>
+        <item>B01004</item>
+        <item>B01005</item>
+        <item>B01006</item>
+        <item>B01007</item>
+        <item>B01008</item>
+        <item>B01009</item>
+        <item>B01010</item>
+    </string-array>
+    <string-array name="carretas">
+        <item>C01001</item>
+        <item>C01002</item>
+        <item>C01003</item>
+        <item>C01004</item>
+        <item>C01005</item>
+        <item>C01006</item>
+        <item>C01007</item>
+        <item>C01008</item>
+        <item>C01009</item>
+        <item>C01010</item>
+    </string-array>
+    <string-array name="cosechadora">
+        <item>D01001</item>
+        <item>D01002</item>
+        <item>D01003</item>
+        <item>D01004</item>
+        <item>D01005</item>
+        <item>D01006</item>
+        <item>D01007</item>
+        <item>D01008</item>
+        <item>D01009</item>
+        <item>D01010</item>
+    </string-array>
+    <string-array name="tractores">
+        <item>A01001</item>
+        <item>A01002</item>
+        <item>A01003</item>
+        <item>A01004</item>
+        <item>A01005</item>
+        <item>A01006</item>
+        <item>A01007</item>
+        <item>A01008</item>
+        <item>A01009</item>
+        <item>A01010</item>
+    </string-array>
+    <string-array name="vagones">
+        <item>A01001</item>
+        <item>A01002</item>
+        <item>A01003</item>
+        <item>A01004</item>
+        <item>A01005</item>
+        <item>A01006</item>
+        <item>A01007</item>
+        <item>A01008</item>
+        <item>A01009</item>
+        <item>A01010</item>
+    </string-array>
+
+    <string-array name="listado">
+        <item>Registro1</item>
+        <item>Registro2</item>
+        <item>Registro3</item>
+        <item>Registro4</item>
+        <item>Registro5</item>
+        <item>Registro6</item>
+        <item>Registro7</item>
+        <item>Registro8</item>
+        <item>Registro9</item>
+        <item>Registro10</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Legal\Desktop\SGC\app\libs\droidText.0.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b2c14c76d9f558463af239be951367e61ea1c270">
+        <dex dex="C:\Users\Legal\Desktop\SGC\app\build\intermediates\pre-dexed\debug\droidText.0.4-748b21ccd2ec2a4c15c348babd3bc4f6dfa80508.jar" />
+    </item>
+
+</items>
